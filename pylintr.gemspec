@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Pylintr::VERSION
   spec.authors       = ["esabelhaus"]
   spec.email         = ["eric.sabelhaus@gmail.com"]
-  spec.summary       = %q{Pylint wrapper for ruby: https://github.com/checkstyle/checkstyle}
-  spec.description   = %q{Pylint wrapper for ruby: https://github.com/checkstyle/checkstyle}
+  spec.summary       = %q{Pylint wrapper for ruby: https://github.com/PyCQA/pylint}
+  spec.description   = %q{Pylint wrapper for ruby: https://github.com/PyCQA/pylint}
   spec.homepage      = "https://github.com/esabelhaus/pylintr"
   spec.license       = "ISC"
 
